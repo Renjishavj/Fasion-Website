@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px) {
+    .nav-header-light{
+        margin-left: 10px;
+    }
+    .nav-header-search{
+        margin-top:50px ;
+        margin-left: -960px;
+    }
+    .navbar-black-section-one{
+        margin-left: 10px;
+    }
+    .home,.shop,.blog,.contact{
+        display: none;
+    }
+   .browse{
+    margin-top: -10px;
+   }
+   .company{
+    margin-top: 30px;
+    margin-left: 950px;
+   }
+}
